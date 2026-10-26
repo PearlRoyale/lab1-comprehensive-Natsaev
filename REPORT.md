@@ -37,7 +37,7 @@ MongoDB: (0.35 * 3) + (0.2 * 4) + (0.15 * 5) + (0.15 * 4) + (0.15 * 4) = 3.8 б�
 
 5. Обратное проектирование и планирование ревью
 5.1. Анализ алгоритма
-Ссылка на UML-диаграмму: ![UML Диаграмма](docs/uml_diagram.png)
+Ссылка на UML-диаграмму: [![UML Диаграмма](docs/uml_diagram.png)](https://github.com/PearlRoyale/lab1-comprehensive-Natsaev/blob/feature/review-plan/uml_diagram.png)
 Выявленные Code Smells:
 1. Магические числа (15000, 0.85, 500, 0.90 и т.д.).
 2. Глубокая вложенность условий.
